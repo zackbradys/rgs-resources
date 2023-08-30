@@ -8,6 +8,9 @@
 * [Publications and Articles](#publications-and-articles)
 * [Videos and Tutorials](#videos-and-tutorials)
 * [Guides and Repositories](#guides-and-repositories)
+* [Rancher Documentation](#rancher-documentation)
+* [Rancher Government Carbide](#rancher-government-carbide)
+* [Rancher Architecture Diagram](#rancher-architecture-diagram)
 
 ## Overview
 
@@ -30,7 +33,6 @@ Rancher Government Solutions is specifically designed to address the unique secu
   * zack.brady@ranchergovernment.com
 * Andy Clemenko - Field Engineer and Security Lead
   * andy.clemenko@ranchergovernment.com
-
 
 ### Publications and Articles
 
@@ -84,3 +86,26 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | Rancher Stack Reference Architecture | https://github.com/clemenko/rancher-ref-arch |
 | Rancher Fleet Push Button Demo | https://github.com/clemenko/catalog_demo |
 | Rancher Fleet Customer Demo | https://github.com/zackbradys/rancher-customer-demos |
+
+### Rancher Documentation
+| Name | Site | Docs |
+| --- | --- | --- |
+| Rancher Government Solutions | https://ranchergovernment.com |
+| Rancher Government Carbide | https://ranchergovernment.com/carbide | https://ranchercarbide.dev |
+| Rancher Harvester (HCI) | https://ranchergovernment.com/products/harvester | https://docs.harvesterhci.io |
+| Rancher Kubernetes Engine 2 (RKE2) | https://ranchergovernment.com/products/rke2 | https://docs.rke2.io |
+| Rancher Multi-Cluster Manager (MCM) | https://ranchergovernment.com/products/mcm | https://ranchermanager.docs.rancher.com |
+| Rancher Longhorn (Storage) | https://ranchergovernment.com/products/longhorn | https://docs.longhorn.io |
+| Rancher NeuVector (Security) | https://ranchergovernment.com/neuvector | https://open-docs.neuvector.com |
+| Rancher Fleet (GitOps) | https://ranchermanager.docs.rancher.com/pages-for-subheaders/fleet-gitops-at-scale | https://fleet.rancher.io |
+| Rancher Desktop (Local Development) | https://rancherdesktop.io | https://docs.rancherdesktop.io |
+| Rancher Kubewarden (Policy Enforcement) | https://kubewarden.io | https://docs.kubewarden.io |
+| Rancher Elemental (Baremetal Provisioning) |  | https://elemental.docs.rancher.com |
+
+### Rancher Government Carbide
+
+![rgs-carbide-overview](images/rgs-carbide-overview.png)
+
+### Rancher Architecture Diagram
+
+![rancher-infrastructure-diagram](images/rgs-cloud-datacenter-edge-diagram.png)
