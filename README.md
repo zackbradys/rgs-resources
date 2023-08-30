@@ -1,10 +1,4 @@
----
-title: Field Engineering Resources
-contact: fieldeng@rancherfederal.com
----
-
-
-# RGS Field Engineering Resources
+# RGS National Security Team Resources
 
 ### Table of Contents
 
@@ -17,7 +11,7 @@ contact: fieldeng@rancherfederal.com
 
 ## Overview
 
-Welcome to the Rancher Government Solutions Resources repository. Please use the repository to view all resources such a articles, blog posts, youtube videos, tutorials, and other random resources, related to RGS's National Security (NatSec) Team.
+Welcome to the Rancher Government Solutions National Security Team Resources repository. Please use the repository to view all resources such a articles, blog posts, youtube videos, tutorials, and other random resources, related to RGS's NatSec Team.
 
 ## Introduction
 
