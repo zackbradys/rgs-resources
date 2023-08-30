@@ -18,7 +18,7 @@ Welcome to the Rancher Government Solutions National Security Team Resources rep
 
 ## Introduction
 
-Rancher is a complete open source software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters at scale, while providing DevOps teams with integrated tools for running containerized workloads.
+Rancher has a complete open source software stack for teams adopting kubernetes. It addresses the operational and security challenges of managing multiple Kubernetes clusters at scale, while providing DevSecOps teams with integrated tools for running containerized workloads.
 
 Rancher Government Solutions is specifically designed to address the unique security and operational needs of the U.S. Governmen, including civilians, military, and contractors, as it relates to application modernization, containers, and Kubernetes. We support all Rancher and SUSE products with U.S. based American citizens with the highest security clearances who are currently supporting programs across the Department of Defense, Intelligence Community, and civilian agencies.
 
@@ -31,7 +31,7 @@ Rancher Government Solutions is specifically designed to address the unique secu
   * michael.sellers@ranchergovernment.com
 * Zack Brady - Field Engineer
   * zack.brady@ranchergovernment.com
-* Andy Clemenko - Field Engineer and Security Lead
+* Andy Clemenko - Field Engineer
   * andy.clemenko@ranchergovernment.com
 
 ### Publications and Articles
