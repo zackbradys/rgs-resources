@@ -13,17 +13,14 @@
 * [Rancher Architecture Diagram](#rancher-architecture-diagram)
 
 ## Overview
-
 Welcome to the Rancher Government Solutions National Security Team Resources repository. Please use the repository to view all resources such a articles, blog posts, youtube videos, tutorials, and other random resources, related to RGS's NatSec Team.
 
 ## Introduction
-
 Rancher has a complete open source software stack for teams adopting kubernetes. It addresses the operational and security challenges of managing multiple Kubernetes clusters at scale, while providing DevSecOps teams with integrated tools for running containerized workloads.
 
-Rancher Government Solutions is specifically designed to address the unique security and operational needs of the U.S. Governmen, including civilians, military, and contractors, as it relates to application modernization, containers, and Kubernetes. We support all Rancher and SUSE products with U.S. based American citizens with the highest security clearances who are currently supporting programs across the Department of Defense, Intelligence Community, and civilian agencies.
+Rancher Government Solutions is specifically designed to address the unique security and operational needs of the United States Government, including civilians, military, and contractors, as it relates to application modernization, containers, and Kubernetes. We support all Rancher and SUSE products with United States based American citizens with the highest security clearances who are currently supporting programs across the Department of Defense, Intelligence Community, and civilian agencies.
 
 ## Contact Information
-
 * National Security Team (NatSec Team) - natsec@ranchergovernment.com
 * Rob Norton - Director of Special Programs
   * rob.norton@ranchergovernment.com
@@ -35,10 +32,9 @@ Rancher Government Solutions is specifically designed to address the unique secu
   * andy.clemenko@ranchergovernment.com
 
 ### Publications and Articles
-
 | Name | Location |
 | ---- | -------- |
-| Have you STID'd RKE2 yet? | https://intelligencecommunitynews.com/ic-insiders-have-you-stigd-your-kubernetes-yet |
+| Have you STIG'd RKE2 yet? | https://intelligencecommunitynews.com/ic-insiders-have-you-stigd-your-kubernetes-yet |
 | Securing the Supply Chain with Carbide | https://intelligencecommunitynews.com/ic-insiders-can-i-get-chips-for-the-slsa-with-the-rancher-government-solutions-carbide |
 | No Code Deployment of Rancher on AWS | https://intelligencecommunitynews.com/ic-insiders-no-code-deployment-of-rancher-kubernetes-on-aws-govcloud |
 | Securing Kubernetes with the NSA Hardening Guide | https://intelligencecommunitynews.com/ic-insiders-creating-a-secure-kubernetes-deployment-five-ways-the-new-nsa-kubernetes-hardening-guide-can-help |
@@ -53,7 +49,6 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | Implementing GitOps with Rancher, ArgoCD, Vault on AWS | https://ranchergovernment.com/blog/implementing-gitops-on-kubernetes-using-aws-k3s-rancher-vault-and-argocd |
 
 ### Videos and Tutorials
-
 | Name | Location |
 | ---- | -------- |
 | Interclypse Tech Talk (For Developers) | https://youtu.be/UHOohKp0aZw |
@@ -68,7 +63,6 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | RGS IC Workshop | https://github.com/clemenko/hobbyfarm/blob/main/ic-workshop.md |
 
 ### Guides and Repositories
-
 | Name | Location |
 | ---- | -------- |
 | Rancher on AWS Workshop | https://catalog.workshops.aws/rancher |
@@ -76,7 +70,7 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | AWS RKE2 Terraform | https://github.com/zackbradys/aws-rke2-terraform |
 | Airgapping the Rancher Stack in 20 Minutes | https://github.com/clemenko/rke_airgap_install |
 | Effortless Deployment of the Rancher Stack | https://github.com/zackbradys/rancher-effortless |
-| Have you STID'd RKE2 yet? | https://github.com/clemenko/rancher_stig |
+| Have you STIG'd RKE2 yet? | https://github.com/clemenko/rancher_stig |
 | Encryption at Rest with Rancher Longhorn | https://github.com/clemenko/longhorn_encrypt |
 | Simple Install of the Rancher Stack | https://github.com/clemenko/rke_install_blog |
 | Driving Freedom of Choice with Rancher | https://github.com/clemenko/driving_freedom |
@@ -103,9 +97,7 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | Rancher Elemental (Baremetal Provisioning) |  | https://elemental.docs.rancher.com |
 
 ### Rancher Government Carbide
-
 ![rgs-carbide-overview](images/rgs-carbide-overview.png)
 
 ### Rancher Architecture Diagram
-
 ![rancher-infrastructure-diagram](images/rgs-cloud-datacenter-edge-diagram.png)
