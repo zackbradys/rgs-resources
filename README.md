@@ -39,6 +39,7 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | No Code Deployment of Rancher on AWS | https://intelligencecommunitynews.com/ic-insiders-no-code-deployment-of-rancher-kubernetes-on-aws-govcloud |
 | Securing Kubernetes with the NSA Hardening Guide | https://intelligencecommunitynews.com/ic-insiders-creating-a-secure-kubernetes-deployment-five-ways-the-new-nsa-kubernetes-hardening-guide-can-help |
 | Tactical Edge Reference Architecture | https://intelligencecommunitynews.com/ic-insiders-tactical-edge-reference-architecture |
+| Driving Freedom of Choice with a Flexible Kubernetes Infrastructure | https://intelligencecommunitynews.com/ic-insiders-driving-freedom-of-choice-with-a-flexible-kubernetes-infrastructure |
 | Effortless Deployment of the Rancher Stack | https://ranchergovernment.com/blog/effortless-deployment-of-rancher-rke2-rancher-manager-longhorn-and-neuvector |
 | Airgapping the Rancher Stack in 20 Minutes | https://ranchergovernment.com/blog/how-to-air-gap-rke2-neuvector-longhorn-and-rancher |
 | Encryption at Rest with Rancher Longhorn | https://ranchergovernment.com/blog/taking-advantage-of-encryption-at-rest-with-longhorn |
