@@ -62,6 +62,8 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | MaxPower - Rancher, Harvester, and GPUs at the Edge | https://youtu.be/Qdc_HKXacyM |
 | Rancher on AWS Workshop | https://catalog.workshops.aws/rancher |
 | RGS IC Workshop | https://github.com/clemenko/hobbyfarm/blob/main/ic-workshop.md |
+| RKE2 and Multus Deployment - Vid| https://youtu.be/GHC4FwgTpe0 |
+| RKE2 and Multus Deployment - Gist | https://gist.github.com/clemenko/18061e6b040cd2baffac11140c0c0680 |
 
 ### Guides and Repositories
 | Name | Location |
