@@ -64,6 +64,7 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | RGS IC Workshop | https://github.com/clemenko/hobbyfarm/blob/main/ic-workshop.md |
 | RKE2 and Multus Deployment - Vid| https://youtu.be/GHC4FwgTpe0 |
 | RKE2 and Multus Deployment - Gist | https://gist.github.com/clemenko/18061e6b040cd2baffac11140c0c0680 |
+| Rancher Workshop - Vid | https://youtu.be/jU_w2GWQwxI |
 
 ### Guides and Repositories
 | Name | Location |
