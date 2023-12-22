@@ -21,11 +21,13 @@ Rancher has a complete open source software stack for teams adopting kubernetes.
 Rancher Government Solutions is specifically designed to address the unique security and operational needs of the United States Government, including civilians, military, and contractors, as it relates to application modernization, containers, and Kubernetes. We support all Rancher and SUSE products with United States based American citizens with the highest security clearances who are currently supporting programs across the Department of Defense, Intelligence Community, and civilian agencies.
 
 ## Contact Information
-* National Security Team (NatSec Team) - natsec@ranchergovernment.com
+* **National Security Team (NatSec Team) - natsec@ranchergovernment.com**
 * Rob Norton - Director of Special Programs
   * rob.norton@ranchergovernment.com
-* Mike Sellers - Senior Account Executive
+* Mike Sellers - Account Executive
   * michael.sellers@ranchergovernment.com
+* Dale Novak - Account Executive
+  * dale.novak@ranchergovernment.com
 * Zack Brady - Field Engineer
   * zack.brady@ranchergovernment.com
 * Andy Clemenko - Field Engineer
@@ -62,14 +64,15 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | MaxPower - Rancher, Harvester, and GPUs at the Edge | https://youtu.be/Qdc_HKXacyM |
 | Rancher on AWS Workshop | https://catalog.workshops.aws/rancher |
 | RGS IC Workshop | https://github.com/clemenko/hobbyfarm/blob/main/ic-workshop.md |
-| RKE2 and Multus Deployment - Vid| https://youtu.be/GHC4FwgTpe0 |
-| RKE2 and Multus Deployment - Gist | https://gist.github.com/clemenko/18061e6b040cd2baffac11140c0c0680 |
+| RKE2 and Multus Deployment | https://youtu.be/GHC4FwgTpe0 |
 | Rancher Workshop - Vid | https://youtu.be/jU_w2GWQwxI |
 
 ### Guides and Repositories
 | Name | Location |
 | ---- | -------- |
 | Rancher on AWS Workshop | https://catalog.workshops.aws/rancher |
+| Rancher Government Hauler | https://github.com/rancherfederal/hauler |
+| Rancher Cluster Templates | https://github.com/rancherfederal/rancher-cluster-templates |
 | RGS IC Workshop | https://github.com/clemenko/hobbyfarm/blob/main/ic-workshop.md |
 | AWS RKE2 Terraform | https://github.com/zackbradys/aws-rke2-terraform |
 | Airgapping the Rancher Stack in 20 Minutes | https://github.com/clemenko/rke_airgap_install |
@@ -84,6 +87,8 @@ Rancher Government Solutions is specifically designed to address the unique secu
 | Rancher Stack Reference Architecture | https://github.com/clemenko/rancher-ref-arch |
 | Rancher Fleet Push Button Demo | https://github.com/clemenko/catalog_demo |
 | Rancher Fleet Customer Demo | https://github.com/zackbradys/rancher-customer-demos |
+| RKE2 and Multus Deployment | https://gist.github.com/clemenko/18061e6b040cd2baffac11140c0c0680 |
+| RKE2 and Kube Vip Deployment | https://gist.github.com/zackbradys/a7da049f11ca93e86e024952113281be |
 
 ### Rancher Documentation
 | Name | Site | Docs |
