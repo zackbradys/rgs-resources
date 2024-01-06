@@ -13,12 +13,15 @@
 * [Rancher Architecture Diagram](#rancher-architecture-diagram)
 
 ## Overview
-Welcome to the Rancher Government Solutions National Security Group Resources repository. Please use the repository to view all resources such a articles, blog posts, youtube videos, tutorials, and other random resources, related to RGS's NatSec Group.
+Welcome to the Rancher Government Solutions National Security Group Resources! Please use the repository to view all resources such a articles, blog posts, youtube videos, tutorials, etc... related to RGS's NatSec Group.
 
 ## Introduction
-Rancher has a complete open source software stack for teams adopting kubernetes. It addresses the operational and security challenges of managing multiple Kubernetes clusters at scale, while providing DevSecOps teams with integrated tools for running containerized workloads.
+Rancher has a completely open-source software stack for teams adopting Kubernetes. It addresses the operational and security challenges of managing infrastructure and  Kubernetes clusters at scale, while providing DevSecOps teams with integrated tools for mission critical containerized workloads.
 
 Rancher Government Solutions is specifically designed to address the unique security and operational needs of the United States Government, including civilians, military, and contractors, as it relates to application modernization, containers, and Kubernetes. We support all Rancher and SUSE products with United States based American citizens with the highest security clearances who are currently supporting programs across the Department of Defense, Intelligence Community, and civilian agencies.
+
+RGS's NatSec Group specializes in supporting the Intelligence Community and is able to provide cleared onsite meetings, enterprise support, technical account managers, consulting engagements, and more. Please reach out to learn more!
+
 
 ## Contact Information
 * **National Security Group (NatSec Group) - natsec@ranchergovernment.com**
