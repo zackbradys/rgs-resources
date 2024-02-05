@@ -32,7 +32,7 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 * Dale Novak - Account Executive
   * dale.novak@ranchergovernment.com
 * Mike Rudd - Account Executive
-  * michael.ruddk@ranchergovernment.com  
+  * michael.rudd@ranchergovernment.com  
 * Zack Brady - Field Engineer
   * zack.brady@ranchergovernment.com
 * Andy Clemenko - Field Engineer
