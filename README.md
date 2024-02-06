@@ -70,7 +70,9 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 | Rancher on AWS Workshop | https://catalog.workshops.aws/rancher |
 | RGS IC Workshop | https://github.com/clemenko/hobbyfarm/blob/main/ic-workshop.md |
 | RKE2 and Multus Deployment | https://youtu.be/GHC4FwgTpe0 |
-| Rancher Workshop - Vid | https://youtu.be/jU_w2GWQwxI |
+| Rancher Workshop | https://youtu.be/jU_w2GWQwxI |
+| What is HobbyFarm | https://youtu.be/o5dJAjmou8s |
+| What is Hauler | https://youtu.be/LC5925eovwE |
 
 ### Guides and Repositories
 | Name | Location |
