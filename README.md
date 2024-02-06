@@ -100,7 +100,7 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 ### Rancher Documentation
 | Name | Site | Docs |
 | --- | --- | --- |
-| Rancher Government Solutions | https://ranchergovernment.com |
+| Rancher Government | https://ranchergovernment.com |
 | Rancher Government Carbide | https://ranchergovernment.com/carbide | https://ranchercarbide.dev |
 | Rancher Harvester (HCI) | https://ranchergovernment.com/products/harvester | https://docs.harvesterhci.io |
 | Rancher Kubernetes Engine 2 (RKE2) | https://ranchergovernment.com/products/rke2 | https://docs.rke2.io |
