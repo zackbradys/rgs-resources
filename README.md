@@ -73,6 +73,7 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 | Rancher Workshop | https://youtu.be/jU_w2GWQwxI |
 | What is HobbyFarm | https://youtu.be/o5dJAjmou8s |
 | What is Hauler | https://youtu.be/LC5925eovwE |
+| NeuVector Federation | https://youtu.be/SthUj8TtesM |
 
 ### Guides and Repositories
 | Name | Location |
