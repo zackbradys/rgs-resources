@@ -25,10 +25,8 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 
 ## Contact Information
 * **National Security Group (NatSec Group) - natsec@ranchergovernment.com**
-* Rob Norton - Director of Special Programs
+* Rob Norton - Account Executive
   * rob.norton@ranchergovernment.com
-* Dale Novak - Account Executive
-  * dale.novak@ranchergovernment.com
 * Mike Rudd - Account Executive
   * michael.rudd@ranchergovernment.com
 * Zack Brady - Field Engineer
