@@ -25,16 +25,14 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 
 ## Contact Information
 **National Security Group (NatSec Group) - natsec@ranchergovernment.com**
-* Rob Norton - Account Executive
-  * rob.norton@ranchergovernment.com
-* Mike Rudd - Account Executive
-  * michael.rudd@ranchergovernment.com
-* Doug Hartmann - Account Executive
-  * douglas.hartmann@ranchergovernment.com
-* Zack Brady - Field Engineer
+* Zack Brady - Field Lead of Engineering Solutions
   * zack.brady@ranchergovernment.com
-* Andy Clemenko - Field Engineer
-  * andy.clemenko@ranchergovernment.com
+* Dwayne Ghant - Engineering Solutions
+  * dwayne.ghant@ranchergovernment.com
+* Mike Rudd - Client Executive
+  * michael.rudd@ranchergovernment.com
+* Doug Hartmann - Client Executive
+  * douglas.hartmann@ranchergovernment.com
 
 ### Publications and Articles
 | Name | Location |
