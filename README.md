@@ -25,14 +25,16 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 
 ## Contact Information
 **National Security Group (NatSec Group) - natsec@ranchergovernment.com**
-* Zack Brady - Field Lead of Engineering Solutions
+* Zack Brady - Lead for Engineering Solutions
   * zack.brady@ranchergovernment.com
+* Jeff Miller - Engineering Solutions
+  * jeff.miler@ranchergovernment.com
 * Dwayne Ghant - Engineering Solutions
   * dwayne.ghant@ranchergovernment.com
-* Mike Rudd - Client Executive
+* Mike Rudd - Lead for Client Executives
   * michael.rudd@ranchergovernment.com
-* Doug Hartmann - Client Executive
-  * douglas.hartmann@ranchergovernment.com
+* Jason Motte - Vice President
+  * jason.motte@ranchergovernment.com
 
 ### Publications and Articles
 | Name | Location |
@@ -51,6 +53,14 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 | NeuVector Classification Banner Guide | https://ranchergovernment.com/blog/new-neuvector-classification-support |
 | Leveraging TLS Passthrough with Rancher RKE2 | https://ranchergovernment.com/blog/leveraging-rke2-with-tls-passthrough |
 | Implementing GitOps with Rancher, ArgoCD, Vault on AWS | https://ranchergovernment.com/blog/implementing-gitops-on-kubernetes-using-aws-k3s-rancher-vault-and-argocd |
+| Rancher Government Hauler - Open Source Airgapped Artifact Packaging and Management | https://intelligencecommunitynews.com/ic-insiders-streamlining-secure-data-movement-for-the-u-s-government-with-rancher-government-hauler |
+| Rancher Government - Signs DISA Secure By Design Pledge | https://intelligencecommunitynews.com/rancher-government-joins-cisa-pledge |
+| Rancher Government - Annoucement of Production IC Cloud Support | https://intelligencecommunitynews.com/rgs-launches-ic-cloud-support |
+| Rancher Government and Buoyant (Linkerd) - Better Together Story | https://intelligencecommunitynews.com/rancher-government-solutions-and-buoyant-announce-strategic-partnership |
+| How Harvester Government is Replacing Legacy Infrastructure | https://intelligencecommunitynews.com/ic-insiders-how-harvester-government-is-replacing-legacy-infrastructure |
+| AWS Reference Architecture for Rancher, RKE2, and Harvester | https://aws.amazon.com/solutions/guidance/deploying-rancher-rke2-at-the-edge-on-aws |
+| Rancher Government and DPG Solutions - Better Together Story | https://intelligencecommunitynews.com/rancher-government-and-dpg-solutions-collaborate |
+
 
 ### Videos and Tutorials
 | Name | Location |
@@ -70,6 +80,7 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 | What is HobbyFarm | https://youtu.be/o5dJAjmou8s |
 | What is Hauler | https://youtu.be/LC5925eovwE |
 | NeuVector Federation | https://youtu.be/SthUj8TtesM |
+| IC/Classified Provisioning Demo | https://youtu.be/jVKwz2ZpmDM |
 
 ### Guides and Repositories
 | Name | Location |
@@ -93,6 +104,7 @@ RGS's NatSec Group specializes in supporting the Intelligence Community and is a
 | Rancher Fleet Customer Demo | https://github.com/zackbradys/rancher-customer-demos |
 | RKE2 and Multus Deployment | https://gist.github.com/clemenko/18061e6b040cd2baffac11140c0c0680 |
 | RKE2 and Kube Vip Deployment | https://gist.github.com/zackbradys/a7da049f11ca93e86e024952113281be |
+| Rancher on Harvester (3 Ways) | https://ranchergovernment.com/blog/three-easy-mode-ways-of-installing-rancher-onto-harvester |
 
 ### Rancher Documentation
 | Name | Site | Docs |
